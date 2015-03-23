@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Blade Snippets",
+		"Codeigniter Codeintel Helper",
+		"CoffeeScript",
+		"CoffeeScriptHaml",
+		"Emmet",
+		"Git",
+		"jQuery Snippets pack",
+		"Package Control",
+		"Terminal",
+		"Thinkphp",
+		"View In Browser"
+	]
+}
